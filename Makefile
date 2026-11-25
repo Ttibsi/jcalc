@@ -1,4 +1,4 @@
 .PHONY: all
 all:
-	@javac start/HelloWorldSwing.java
-	@java start.HelloWorldSwing
+	@javac src/Jcalc.java
+	@java src.Jcalc
