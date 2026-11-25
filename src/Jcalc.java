@@ -3,8 +3,6 @@ package src;
 import javax.swing.*;        
 import java.awt.*;
 import java.awt.event.*;
-import javax.swing.border.LineBorder;
-import javax.swing.border.EmptyBorder;
  
 public class Jcalc {
     private static String display = "";
